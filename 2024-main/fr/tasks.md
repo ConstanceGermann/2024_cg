@@ -4,9 +4,9 @@
 
 ---
 ## Comment participer
-Pour participer, il faut s'inscrire sur le site de la CLEF : http://clef2024-labs-registration.dei.unipd.it/. 
+Pour participer, il faut s'inscrire sur le site de la [CLEF](https://clef2024.clef-initiative.eu/index.php) : [http://clef2024-labs-registration.dei.unipd.it/](http://clef2023-labs-registration.dei.unipd.it/). 
 
-Tous les membres de l'équipe doivent s'inscrire à la liste de diffusion SimpleText : https://groups.google.com/g/simpletext. 
+Tous les membres de l'équipe doivent s'inscrire à la liste de diffusion SimpleText : [https://groups.google.com/g/simpletext](https://groups.google.com/g/simpletext). 
 
 Les données seront mises à la disposition de tous les participants inscrits.
 
