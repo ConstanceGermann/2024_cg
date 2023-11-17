@@ -6,7 +6,7 @@
 
 Site web : [http://simpletext-project.com/](http://simpletext-project.com/)
 
-Twitter : https://twitter.com/SimpletextW
+Twitter : [https://twitter.com/SimpletextW](https://twitter.com/SimpletextW)
 
 Groupe Google : https://groups.google.com/g/simpletext
 
