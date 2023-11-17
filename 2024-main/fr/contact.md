@@ -10,6 +10,6 @@ Twitter : [https://twitter.com/SimpletextW](https://twitter.com/SimpletextW)
 
 Groupe Google : [https://groups.google.com/g/simpletext](https://groups.google.com/g/simpletext)
 
-Site web de la CLEF : https://clef2024.clef-initiative.eu/index.php 
+Site web de CLEF : [https://clef2024.clef-initiative.eu/index.php](https://clef2024.clef-initiative.eu/index.php)
  
-Des questions ? N'hésitez pas à nous contacter : contact@simpletext-project.com
+Des questions ? N'hésitez pas à nous contacter : [contact@simpletext-project.com](mailto:contact@simpletext-project.com)
