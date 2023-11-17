@@ -4,7 +4,7 @@
 
 ---
 
-Site web : http://simpletext-project.com/
+Site web : [http://simpletext-project.com/](http://simpletext-project.com/)
 
 Twitter : https://twitter.com/SimpletextW
 
